@@ -1,0 +1,11 @@
+D:\Projects\Logistics Management System\LogiTrack.Services\bin\Debug\net8.0\LogiTrack.Services.deps.json
+D:\Projects\Logistics Management System\LogiTrack.Services\bin\Debug\net8.0\LogiTrack.Services.dll
+D:\Projects\Logistics Management System\LogiTrack.Services\bin\Debug\net8.0\LogiTrack.Services.pdb
+D:\Projects\Logistics Management System\LogiTrack.Services\obj\Debug\net8.0\LogiTrack.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Logistics Management System\LogiTrack.Services\obj\Debug\net8.0\LogiTrack.Services.AssemblyInfoInputs.cache
+D:\Projects\Logistics Management System\LogiTrack.Services\obj\Debug\net8.0\LogiTrack.Services.AssemblyInfo.cs
+D:\Projects\Logistics Management System\LogiTrack.Services\obj\Debug\net8.0\LogiTrack.Services.csproj.CoreCompileInputs.cache
+D:\Projects\Logistics Management System\LogiTrack.Services\obj\Debug\net8.0\LogiTrack.Services.dll
+D:\Projects\Logistics Management System\LogiTrack.Services\obj\Debug\net8.0\refint\LogiTrack.Services.dll
+D:\Projects\Logistics Management System\LogiTrack.Services\obj\Debug\net8.0\LogiTrack.Services.pdb
+D:\Projects\Logistics Management System\LogiTrack.Services\obj\Debug\net8.0\ref\LogiTrack.Services.dll
